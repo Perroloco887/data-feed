@@ -1,4 +1,921 @@
 {
-  "peliculas": [],
+  "peliculas": [
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93179,
+      "tmdb_id": 1422011,
+      "titulo": "It Ends",
+      "slug": "it-ends",
+      "año": "2026",
+      "fecha_estreno": "2026-08-21",
+      "rating": 5.467,
+      "sinopsis": "Cuatro amigos recién graduados emprenden un paseo nocturno y, por error, terminan atrapados en una carretera interminable y desolada, rodeada de misterios cósmicos y horrores inexplicables.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/1i8bzINBNv7MSZNqst6mDeOFFyz.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror",
+        "Misterio"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93176,
+      "tmdb_id": 1341138,
+      "titulo": "Spa Weekend",
+      "slug": "spa-weekend",
+      "año": "2026",
+      "fecha_estreno": "2026-08-20",
+      "rating": 6.8,
+      "sinopsis": "Tres amigas se van a pasar el fin de semana a un spa, pero la estancia se convierte en un caos cuando se les une otra amiga, muy juerguista.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/5iuGOFh2qRChIKEwdyLiyhIRQv3.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/8NGPUlR4xKQfgLaWCeXALGF3i27.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93171,
+      "tmdb_id": 1750432,
+      "titulo": "Spidey and the Avengers: Halloween Team-Up!",
+      "slug": "spidey-and-the-avengers-halloween-team-up",
+      "año": "2026",
+      "fecha_estreno": "2026-09-24",
+      "rating": 0.0,
+      "sinopsis": "Los planes de Halloween de Spidey y los Vengadores se ponen patas arriba por la misteriosa Eva de los Santos, quien juega trucos mágicos en trucos o tratadores y planea arruinar Halloween para siempre.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+      "cover": "https://series.ly/images/cover.webp",
+      "trailer": "0",
+      "generos": [
+        "Aventura",
+        "Animación",
+        "Familia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93169,
+      "tmdb_id": 1465063,
+      "titulo": "La isla olvidada",
+      "slug": "la-isla-olvidada",
+      "año": "2026",
+      "fecha_estreno": "2026-09-10",
+      "rating": 7.6,
+      "sinopsis": "Dos amigas se quedan varadas en el místico mundo de Nakali, donde su único escape podría costarles su vida compartida de recuerdos.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/vpTdXFoZGzwnCWzkVYU7JH8teAZ.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "trailer": "uW2uWXiBpIs",
+      "generos": [
+        "Aventura",
+        "Animación",
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93165,
+      "tmdb_id": 820694,
+      "titulo": "La bestia en la jungla",
+      "slug": "la-bestia-en-la-jungla",
+      "año": "2023",
+      "fecha_estreno": "2023-08-16",
+      "rating": 5.4,
+      "sinopsis": "La historia transcurre durante 25 años (de 1979 a 2004) en un enorme club nocturno, donde un hombre y una mujer observan y esperan un evento desconocido, mientras seguimos la evolución de la música disco a la tecno como banda sonora de la historia de una obsesión... Adaptación libre de la novela homónima de Henry James.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/3XsthfsUOZ96QzIedIW1RsgUV5H.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/aJkRjro9gJ0fmUSQEQUDqBwhXjV.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93164,
+      "tmdb_id": 1492640,
+      "titulo": "UNABOMBER",
+      "slug": "unabomber",
+      "año": "2026",
+      "fecha_estreno": "2026-09-25",
+      "rating": 10.0,
+      "sinopsis": "",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/hrwqf9YAUsCwCnlXN4Qi66kGnoy.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+      "trailer": "IXvat2Qeb2Y",
+      "generos": [
+        "Crimen",
+        "Historia",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93162,
+      "tmdb_id": 1543902,
+      "titulo": "El club gourmet",
+      "slug": "el-club-gourmet",
+      "año": "2025",
+      "fecha_estreno": "2025-10-21",
+      "rating": 5.7,
+      "sinopsis": "Tres amigas de toda la vida se mudaron al pintoresco sur de Fionia, Dinamarca, tras cinco años desde sus conmovedoras aventuras en Italia. Ahora viven bajo el mismo techo, compartiendo los desafíos y las alegrías de la vida a los 70 años. En medio de los impresionantes paisajes y las delicias culinarias de Dinamarca, el trío se enfrenta a nuevos retos y revelaciones personales que redefinen sus años dorados.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/eULl5cGe87xfCNpa8e74nepIQPB.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/iyVWKZgTg84B5lsPRB1SlEb11V0.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93158,
+      "tmdb_id": 1477712,
+      "titulo": "Dulce sabor a muerte",
+      "slug": "dulce-sabor-a-muerte",
+      "año": "2026",
+      "fecha_estreno": "2026-08-03",
+      "rating": 4.56,
+      "sinopsis": "Lo que comienza siendo un verano idílico, en un pequeño y tranquilo pueblo vacacional, se convierte en una auténtica pesadilla cuando los más pequeños comienzan a mostrar instintos asesinos y deseos insaciables por acabar con todos los adultos. Son víctimas de una curiosa maldición provocada por los helados que comen que afecta a todos, menos a tres niños que tendrán que intentar escapar y salvar a todo el pueblo.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/uVuP2ZTYLn5hdL1aUOe4BiFD6d3.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+      "trailer": "zYC5iij2DTg",
+      "generos": [
+        "Comedia",
+        "Terror",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93153,
+      "tmdb_id": 1291712,
+      "titulo": "Las catadoras del Hitler",
+      "slug": "las-catadoras-del-hitler",
+      "año": "2025",
+      "fecha_estreno": "2025-03-27",
+      "rating": 6.586,
+      "sinopsis": "Siete mujeres son obligadas a probar la comida de Hitler para detectar posible veneno. Entre ellas surgen relaciones de solidaridad y traición en un ambiente de tensión y desconfianza.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2A01Coqtyg5G5DQf2vzLnzpnKl9.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/wAow3w58FGNdWUMpPdddOtnM3A0.jpg",
+      "trailer": "A_ZNTQVWOjY",
+      "generos": [
+        "Drama",
+        "Historia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93151,
+      "tmdb_id": 1032863,
+      "titulo": "La hipótesis del amor",
+      "slug": "la-hipotesis-del-amor",
+      "año": "2026",
+      "fecha_estreno": "2026-09-23",
+      "rating": 8.092,
+      "sinopsis": "Olive es una brillante estudiante de doctorado. Cuando descubre que su mejor amiga, Ahn, se ha enamorado de Jeremy, el chico que a ella le gustaba, Olive besa impulsivamente al intimidante profesor Adam Carlsen para demostrar que lo ha superado. El beso les lleva a ambos a mantener una relación falsa con reglas, límites y un acuerdo mutuamente beneficioso. Pero cuando su acuerdo empieza a difuminarse entre la ficción y la realidad, Olive se ve obligada a poner a prueba su hipótesis: que quizá el amor sí merezca la pena.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/ylrSdW6fZYwaInYH6WAqvIEnSiV.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93150,
+      "tmdb_id": 1481603,
+      "titulo": "Hold the Fort",
+      "slug": "hold-the-fort",
+      "año": "2025",
+      "fecha_estreno": "2025-07-16",
+      "rating": 5.9,
+      "sinopsis": "La película sigue a Lucas y Jenny, quienes creen que su vida finalmente está tomando forma cuando la pareja se convierte en propietaria de una vivienda. Sin embargo, no saben que su nueva casa trae consigo una gran desventaja. Lucas y Jenny pronto se ven envueltos en una lucha por sus vidas al verse atrapados en una batalla entre la Asociación de Propietarios y una avalancha de monstruos infernales. Esta comedia de terror aborda la actual preocupación de ser propietario de una vivienda y la convierte en una emocionante aventura llena de acción.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/fnq6itOtvCXRBjwuq96hkYu0pCX.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/2Czzw6qOeYAWhWnFEx8WSmA0E8F.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Terror"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93139,
+      "tmdb_id": 174388,
+      "titulo": "Catherine the Last",
+      "slug": "catherine-the-last",
+      "año": "1936",
+      "fecha_estreno": "1936-01-20",
+      "rating": 6.5,
+      "sinopsis": "",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/act8P5w1uLwoGYACkjQvDbnpTi4.jpg",
+      "cover": "https://series.ly/images/cover.webp",
+      "trailer": "0",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93138,
+      "tmdb_id": 86053,
+      "titulo": "Un enredo de familia",
+      "slug": "un-enredo-de-familia",
+      "año": "1943",
+      "fecha_estreno": "1943-05-09",
+      "rating": 5.333,
+      "sinopsis": "Las familias de los Capitetos y los Tontescos se odian a muerte. A pesar de ello, un Capiteto se casa con una Tontesca y tienen dos pares de mellizos. Al quedar huérfanos, una pareja es recogida por los Capitetos y la otra por los Tontescos. Pasados los años, los mellizos Capitetos contraen matrimonio: uno, con una mujer muy agria, y otra, con un caballero de carácter bastante desagradable. Los otros dos mellizos, que se han criado en el extranjero, regresan a la ciudad. El asombroso parecido de unos con otros da lugar a diversos equívocos.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/utB9Fxa2OzUpVHSalUV6SPyIEdM.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/pOXb1qAdW0rU4HAbdirJDcF2dpl.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93137,
+      "tmdb_id": 70177,
+      "titulo": "La maldición de los Wickersham",
+      "slug": "la-maldicion-de-los-wickersham",
+      "año": "2008",
+      "fecha_estreno": "2008-01-01",
+      "rating": 4.2,
+      "sinopsis": "Nikki, una joven pintora, decide trasladarse junto a su marido a la casa de campo de su suegro, recientemente fallecido de manera accidental. Mientras preparan su funeral, una serie de extraños sucesos tienen lugar en la casa, sobre la que se rumorea una siniestra leyenda. (FILMAFFINITY)",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/4RvSytqRw0MIkBvLUrKQYWJrbY.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/56ZJWhcrO5Q2Lmw2KT1Fa4h1pmN.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror",
+        "Misterio",
+        "Película de TV"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93136,
+      "tmdb_id": 1607127,
+      "titulo": "Un último disparo",
+      "slug": "one-last-shot",
+      "año": "2026",
+      "fecha_estreno": "2026-09-22",
+      "rating": 7.743,
+      "sinopsis": "El Navy Seal Jake Harris debe evitar que un equipo de mercenarios, dirigido por su excamarada desilusionado, inhabilite la red de defensa antimisiles de Estados Unidos.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/opmrLPrV2GPSazjWbX2PhkLjxBe.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+      "trailer": "0",
+      "generos": [
+        "Acción",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93134,
+      "tmdb_id": 1228834,
+      "titulo": "Operación Teherán",
+      "slug": "operacion-teheran",
+      "año": "2026",
+      "fecha_estreno": "2026-09-10",
+      "rating": 7.4,
+      "sinopsis": "Tras el final de la guerra en Afganistán, un grupo de exoperadores de la CIA se han quedado marcados por la violencia, el abandono y la culpa. Sin patria ni propósitos a corto plazo, aceptan una última misión y viajan a Teherán para llevar a cabo un golpe arriesgado e ilegal que podría ser su opción para perdonarse a sí mismos o para acabar del todo. Mientras el pasado los persigue y la desconfianza entre ellos va en aumento, la operación se transforma en una prueba moral en la que tendrán que decidir si ser soldados obedientes o son hombres dispuestos a recuperar el control de sus vidas.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/5uB1PWP3QHEcgMXKChsaYmtTUkQ.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/dJTWIecL2vxsCRl5G0lRhPsfrhc.jpg",
+      "trailer": "0",
+      "generos": [
+        "Acción",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93130,
+      "tmdb_id": 675871,
+      "titulo": "Super Troopers 3",
+      "slug": "super-troopers-3",
+      "año": "2026",
+      "fecha_estreno": "2026-08-06",
+      "rating": 6.5,
+      "sinopsis": "Siempre ávidos de acción, cinco policías del Estado de Vermont, demasiado entusiastas pero nada reconocidos, hacen de las suyas en la autopista.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/oU2H07DQVjGMp2vUgrYzso36v15.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Crimen",
+        "Misterio"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93127,
+      "tmdb_id": 56790,
+      "titulo": "The Doll Master",
+      "slug": "the-doll-master",
+      "año": "2004",
+      "fecha_estreno": "2004-08-06",
+      "rating": 5.971,
+      "sinopsis": "Hace setenta años, un fabricante de muñecas se enamoró de una bella mujer tan desesperadamente que construyó una muñeca a su imagen y semejanza. Pero cuando la mujer fue trágicamente asesinada, el fabricante de muñecas fue injustamente acusado del crimen y condenado a muerte. Justo antes de morir pudo ver a la muñeca prometiéndole con la mirada que su muerte sería vengada. De vuelta al presente, un grupo de jóvenes visita un apartado museo de arte con el propósito de actuar como modelos para una extraña fabricante de muñecas que se encuentra confinada a una silla de ruedas. Pero lo que debería haber sido un trabajo fácil se acaba convirtiendo en una escalofriante pesadilla cuando comienzan a ser misteriosamente asesinados uno por uno...",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/dW0K1rcVqoshuD1ImxyOgGAab13.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/6WgajZ9s2zX2pnpXUqn6VFfNUAq.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93126,
+      "tmdb_id": 42586,
+      "titulo": "Darling Lili",
+      "slug": "darling-lili",
+      "año": "1970",
+      "fecha_estreno": "1970-06-18",
+      "rating": 5.632,
+      "sinopsis": "Lili Smith, favorita de la canción inglesa e ídolo de los soldados británicos, se encuentra descansando en Londres tras su estancia en las líneas del frente durante la Primera Guerra Mundial. Pero Lili es, también y sin que su ferviente público pueda imaginarlo, una eficaz espía alemana, que trabaja en estrecha colaboración con Kurt von Ruger, del servicio secreto alemán, que ante todos pasa como el afectuoso tío de la cantante. Según opinión de Von Ruger, el valor profesional de Lili como espía, reside en la absoluta frialdad de sus emociones.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/mBcsMDNeoBziiUjhpiaD1znMHyf.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/5hCGMVTgs24FSsiLjZqGXoQ352j.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93125,
+      "tmdb_id": 30295,
+      "titulo": "Operación Whisky",
+      "slug": "operacion-whisky",
+      "año": "1964",
+      "fecha_estreno": "1964-12-10",
+      "rating": 7.0,
+      "sinopsis": "Un hombre (Cary Grant) pasa la Segunda Guerra Mundial (1939-1945) en una paradisíaca isla de los mares del Sur. A causa de un accidente inesperado se refugian en la isla seis niños y su bella institutriz francesa (Leslie Caron).",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/aWNyBlneKOBui9QjlaeEsxp1sZb.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/qxfuWn03LIk8FFT85gIoFQmPB3.jpg",
+      "trailer": "0",
+      "generos": [
+        "Aventura",
+        "Comedia",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93118,
+      "tmdb_id": 1288599,
+      "titulo": "A Family Upside Down",
+      "slug": "a-family-upside-down",
+      "año": "2025",
+      "fecha_estreno": "2025-11-06",
+      "rating": 5.5,
+      "sinopsis": "Alessandro Moretti tiene buenas razones para estar decepcionado con la vida. Hace años que no trabaja, su esposa Margherita se va alejando lentamente de él, y sus tres hijos son tan insoportables como irrespetuosos. No sería de extrañar que, en el fondo de su corazón, quisiera cambiarlo todo. Incluyendo a su familia. Después de pasar un día en un parque de diversiones por el cumpleaños de Anna, los seis de ellos, incluida su suegra, se quedan a dormir en el hotel del parque. Al día siguiente, cuando despiertan, sucede lo inimaginable: cada miembro de la familia se despierta en el cuerpo de otra persona. Y eso es solo el comienzo.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/t89VJO6vXcLqqbEYeeUIBcu5t5P.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/85UaOlnC2mniOUbs3fyW6tX1DsD.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Fantasía"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93117,
+      "tmdb_id": 33015,
+      "titulo": "El rey de los cowboys",
+      "slug": "el-rey-de-los-cowboys",
+      "año": "1925",
+      "fecha_estreno": "1925-11-01",
+      "rating": 6.919,
+      "sinopsis": "Un joven que no encuentra trabajo en su pueblo natal emigra a Nueva York en busca de un futuro mejor, pero nada más llegar se siente abrumado por la vida de la gran ciudad y decide probar suerte en cualquier otro sitio. Se cae de un tren cerca de un rancho y se convierte en un vaquero muy especial...",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/chZ6GbfTIKgD6nYmUKZScDAnIo8.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/6cV4KwohyeA7MWy97TsMA3RPaQ7.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Western"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93116,
+      "tmdb_id": 1751701,
+      "titulo": "After Impact",
+      "slug": "after-impact",
+      "año": "2026",
+      "fecha_estreno": "2026-09-15",
+      "rating": 5.2,
+      "sinopsis": "Después de heredar el enorme invernadero de su padre cuando un asteroide amenaza a la Tierra, Ethan enfrenta la traición y el aislamiento. Sobreviviendo al impacto en el búnker de su familia, maltratado y desesperado, una voz en la radio revela que no está solo.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/yzDuAQCY2n6zzOlBkn6JzhLhY3k.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/k22XyPbce7zvzzf5OnT4uaY8ZD1.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Ciencia ficción",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93110,
+      "tmdb_id": 115425,
+      "titulo": "The Buccaneer",
+      "slug": "the-buccaneer",
+      "año": "1938",
+      "fecha_estreno": "1938-02-04",
+      "rating": 6.4,
+      "sinopsis": "El pirata francés Jean Lafitte rescata a una niña y se une a la guerra de 1812.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/iLKP2TldClPi1ks0v9Y7G8pWFpG.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/aFSi56mazIWDA5H6k4WOSjpRZyB.jpg",
+      "trailer": "0",
+      "generos": [
+        "Aventura"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93109,
+      "tmdb_id": 267315,
+      "titulo": "Cinco almohadas para una noche",
+      "slug": "cinco-almohadas-para-una-noche",
+      "año": "1974",
+      "fecha_estreno": "1974-06-07",
+      "rating": 3.2,
+      "sinopsis": "Ana, una muchacha de familia acomodada que está a punto de contraer matrimonio, descubre en casa de su novio una fotografía en la que aparecen en actitud muy cariñosa su madre, muerta al nacer ella, y su futuro suegro. La lectura del diario de su madre le da una serie de pistas sobre los galanes que la cortejaron. Se trata de averiguar cuál de ellos podría ser su padre.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/780zgOGxJeQc8XDjKU7NF1ekavj.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/aIZhDOb39vqiU5uWlBNRcdfR7vE.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Drama",
+        "Música"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93108,
+      "tmdb_id": 285743,
+      "titulo": "The Devil's Carnival: Alleluia!",
+      "slug": "the-devils-carnival-alleluia",
+      "año": "2016",
+      "fecha_estreno": "2016-03-29",
+      "rating": 6.1,
+      "sinopsis": "El Carnaval del Diablo: ¡Aleluya! es el segundo episodio de The Devil's Carnival. El episodio girará en torno a la guerra entre el infierno y el cielo.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/naDJqNmD2WuWOBBmH7THxHh0aE4.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/viIfaTSR3Yu5KV7Bqejs7fxRaX6.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror",
+        "Música"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93107,
+      "tmdb_id": 230823,
+      "titulo": "Widow's Walk",
+      "slug": "widows-walk",
+      "año": "1987",
+      "fecha_estreno": "1987-12-02",
+      "rating": 5.7,
+      "sinopsis": "Diez años después de haber quitado su región natal, el inspector Molinat es obligado a volver por una investigación. Dos cadáveres son misteriosamente encontrados cerca de la costa. La llegada de el Inspector Leroyer, al que detestaba, no solo complicará más aún la investigación sino que sumergirá a Molinat en su propio pasado",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/hMDnQxeJQxAJjhPPVuFnHC9PBGA.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/5ZliHcs10Gsm9PWVPllBzagivBs.jpg",
+      "trailer": "0",
+      "generos": [
+        "Crimen"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93106,
+      "tmdb_id": 1437703,
+      "titulo": "Moscas",
+      "slug": "moscas-2026",
+      "año": "2026",
+      "fecha_estreno": "2026-07-01",
+      "rating": 6.7,
+      "sinopsis": "",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/zBwSaw3sEwqH9vSijiPbUdbHNQz.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/dlVvlYfvpD05KYbKFxEUvskvWWd.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Drama"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93105,
+      "tmdb_id": 118876,
+      "titulo": "¿Por qué se asesina a un magistrado?",
+      "slug": "por-que-se-asesina-a-un-magistrado",
+      "año": "1975",
+      "fecha_estreno": "1975-02-05",
+      "rating": 7.265,
+      "sinopsis": "Tras haber recopilado información de un amigo comisario de policía, de un periódico de sucesos y de un constructor mafioso, el joven director de cine Giacomo Solaris rueda su film \"Inchiesta sul Palazzo di giustizia\" y lo presenta en Palermo, suscitando un gran revuelo. De hecho, la película retrata claramenta la figura y los malos hechos de Alberto Traini, un alto magistrado que poco después es asesinado. Preso de culpa, Solaris indagará.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/xizUWH9EBoBztAOojubV5nfAuxZ.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/rABDxSi47fnWmYretmSOQWiGDzX.jpg",
+      "trailer": "0",
+      "generos": [
+        "Crimen",
+        "Drama",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93102,
+      "tmdb_id": 123324,
+      "titulo": "Garras asesinas",
+      "slug": "garras-asesinas",
+      "año": "1991",
+      "fecha_estreno": "1991-12-18",
+      "rating": 6.688,
+      "sinopsis": "Cuando Paul y Lindsey compraron una casa nueva, no sabían nada del anterior propietario. Y no advirtieron la enorme población felina en los alrededores del hogar",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/c15Se3INJVYhBswkQ8UQOhXovz.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/cbf0V2LNBqjssCJEUgZQW8zOrqa.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror",
+        "Película de TV"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93101,
+      "tmdb_id": 840098,
+      "titulo": "El caso Braibanti",
+      "slug": "el-caso-braibanti",
+      "año": "2022",
+      "fecha_estreno": "2022-09-08",
+      "rating": 7.207,
+      "sinopsis": "A finales de los años sesenta, el dramaturgo y poeta Aldo Braibanti es acusado de «plagio», un delito utilizado para perseguir a quienes se apartaban de las normas sociales establecidas. Mientras su joven amigo Ettore es internado en un hospital psiquiátrico y sometido a tratamientos destinados a romper la influencia de Braibanti, un periodista comienza a investigar el caso y a reconstruir la verdad detrás de uno de los procesos judiciales más controvertidos de la Italia de la época.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/zqY1SrVD1WRuNlIRNywKy1TZdCT.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/tjrKZVwRV418gGrKoenRlNPOAbO.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Historia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93100,
+      "tmdb_id": 112503,
+      "titulo": "Yo soy Trinidad",
+      "slug": "yo-soy-trinidad",
+      "año": "1966",
+      "fecha_estreno": "1966-10-28",
+      "rating": 5.2,
+      "sinopsis": "Django recupera el cadaver de su padre, muerto por un cazador de recompensas, y lo lleva a la ciudad para cobrar el premio. Allí se entera que su padre no era un criminal, sino un hombre de negocios. Ahora tiene una herencia que reclamar... y una cuenta que saldar con Clusker.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9uwmvkzNal9uwi3OJwdg8KOtK6c.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/aVTSFo6b1G0rgMNzXWlnZPiMBli.jpg",
+      "trailer": "0",
+      "generos": [
+        "Western"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93096,
+      "tmdb_id": 258266,
+      "titulo": "The Golden Demon",
+      "slug": "the-golden-demon",
+      "año": "1937",
+      "fecha_estreno": "1937-06-10",
+      "rating": 6.0,
+      "sinopsis": "",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/q4kQpLHjkVqW3XG4oTSYINjFtjy.jpg",
+      "cover": "https://series.ly/images/cover.webp",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93094,
+      "tmdb_id": 1319977,
+      "titulo": "A la cara",
+      "slug": "a-la-cara",
+      "año": "2026",
+      "fecha_estreno": "2026-05-29",
+      "rating": 6.5,
+      "sinopsis": "Una famosa periodista acude a la casa de uno de sus haters para que le diga a la cara lo que escribió sobre ella en sus redes sociales. Pronto descubren que no son tan diferentes entre sí.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/fzRQIB2FCCevWyBmcjwHVfvDPBl.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/5Ha46FCDKfJMnVjHsOR1QSA1zdE.jpg",
+      "trailer": "yqidCxR7NVk",
+      "generos": [
+        "Drama"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93088,
+      "tmdb_id": 1476682,
+      "titulo": "Gail Daughtry y el vale por un rollo VIP",
+      "slug": "gail-daughtry-y-el-vale-por-un-rollo-vip",
+      "año": "2026",
+      "fecha_estreno": "2026-07-09",
+      "rating": 6.1,
+      "sinopsis": "Gail Daughtry, una peluquera de un pequeño pueblo, está prometida con Tom, su novio de toda la vida. Su vida da un vuelco cuando él conoce y acaba acostándose con la famosa que figuraba en su 'lista de permitidos'. Impulsivamente, Gail viaja a Los Ángeles con su amigo Otto, donde una vidente la convence de que la única forma de salvar su matrimonio es 'equilibrar la balanza' acostándose con el famoso de su propia lista: Jon Hamm. Así comienza una disparatada aventura por Hollywood en la que Gail y Otto unen fuerzas con más gente, entre ellos el actor John Slattery, para encontrar a Hamm. En el camino se cruzan con numerosas celebridades y son perseguidos por un grupo de asesinos a medida que se acercan al esquivo actor.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9izcOArtiNWM3Uywt0rz1kX55U0.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/vfcqksiJMpzFJ8Y1cVbSAH6J6rY.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93087,
+      "tmdb_id": 1451944,
+      "titulo": "Cuatro historias de deseo 3",
+      "slug": "cuatro-historias-de-deseo-3",
+      "año": "2026",
+      "fecha_estreno": "2026-09-18",
+      "rating": 8.5,
+      "sinopsis": "Cuatro de los directores más importantes de la India analizan el amor, el sexo y las relaciones en la India actual. Una antología de cuatro historias que arroja luz sobre las relaciones modernas desde el punto de vista de la mujer india.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/hE2aHgQLtezwBPXbQhMcvtp5K5a.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/ygMNjFOBuLVoInEoPzqPU2U0pfg.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93084,
+      "tmdb_id": 1423191,
+      "titulo": "Resident Evil",
+      "slug": "resident-evil-2026",
+      "año": "2026",
+      "fecha_estreno": "2026-09-16",
+      "rating": 7.299,
+      "sinopsis": "Película basada en la saga de videojuegos de Capcom del mismo nombre. En una reinvención totalmente nueva, el mensajero médico Bryan se ve inmerso en una carrera de acción sin descanso por la supervivencia, mientras el caos se desata a su alrededor.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/3d8D5tZXiPUE2VmRjnrTNzFORBa.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+      "trailer": "d6oszs7f5aI",
+      "generos": [
+        "Aventura",
+        "Terror",
+        "Ciencia ficción"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93076,
+      "tmdb_id": 1240889,
+      "titulo": "Adolescencia, sexo y muerte en campamento Miasma",
+      "slug": "adolescencia-sexo-y-muerte-en-campamento-miasma",
+      "año": "2026",
+      "fecha_estreno": "2026-08-06",
+      "rating": 6.508,
+      "sinopsis": "Tras años de secuelas cutres y un fandom en declive, la franquicia slasher 'Camp Miasma' es puesta en manos de una joven y entusiasta directora para que la resucite. Pero cuando visita a la estrella de la película original, una actriz que ahora vive recluida y envuelta en misterio, las dos caen en una espiral de sangre, deseo, miedo y delirio.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/8UTCpwvHxWPllCJ7YnaCbffmYyD.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/d1n2ySWSanU34eEsluRjfrjRq52.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Terror",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93075,
+      "tmdb_id": 1641629,
+      "titulo": "Tú+Yo - Solos contra todos",
+      "slug": "tuyo-solos-contra-todos",
+      "año": "2026",
+      "fecha_estreno": "2026-09-18",
+      "rating": 5.891,
+      "sinopsis": "Alma Lancaster, de 18 años, parece llevar una vida perfecta en el seno de una familia adinerada que cree que está estudiando Derecho. Sin embargo, en secreto persigue su verdadero sueño: el cine. En la universidad conoce a Vadim Arcadi, de 20 años, un rebelde carismático y solitario con un pasado turbulento. Obligados a colaborar en una película para la universidad, ambos chocan, se acercan y terminan enamorándose, pese a sus esfuerzos por evitarlo. Pero alguien que los observa está decidido a separarlos y desvelar secretos que podrían destruir tanto a Alma como a Vadim.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/mzgqiEhujCAZiaD6jNVYSXdqFXs.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+      "trailer": "ipBoyL05nek",
+      "generos": [
+        "Drama",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93074,
+      "tmdb_id": 1514863,
+      "titulo": "Las mejores",
+      "slug": "best-of-the-best",
+      "año": "2026",
+      "fecha_estreno": "2026-09-18",
+      "rating": 8.7,
+      "sinopsis": "Dos mejores amigas se unen al competitivo equipo de baile de fusión bollywoodiense de la UCLA, pero el camino hacia el campeonato de EE. UU. es más duro de lo que creían.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/lb9jgdWnpl7BDX66R3LHRdOATcQ.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+      "trailer": "-F_-Cna724k",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93073,
+      "tmdb_id": 1376831,
+      "titulo": "Another Man",
+      "slug": "another-man",
+      "año": "2026",
+      "fecha_estreno": "2026-03-27",
+      "rating": 6.0,
+      "sinopsis": "Una pareja estable que aparentemente tiene una vida ordenada se ve desestabilizada por la llegada inesperada de un nuevo vecino a la ventana de enfrente.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/jMc636mjbgitvHYyh5sYHZkQj9h.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/cghAW0vtUCV5MlW47Nc2pDXJNn2.jpg",
+      "trailer": "wxNuP_FQu4E",
+      "generos": [
+        "Comedia",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93072,
+      "tmdb_id": 1267116,
+      "titulo": "Poli malo",
+      "slug": "bad-man",
+      "año": "2025",
+      "fecha_estreno": "2025-09-05",
+      "rating": 5.483,
+      "sinopsis": "En Colt Lake Tennessee, Sam Evans se enfrenta a una epidemia de metanfetamina y es marginado a la llegada de Bobby Gaines, un agente encubierto. A pesar de los vínculos locales de Evans, Gaines es aclamado como un héroe y surgen sospechas sobre Gaines que desentrañan una compleja trama.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/lUrItNlrml6f5wzciBRwPjv7pCy.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/1vpYetmXPalRThqVpxMr02DDQEW.jpg",
+      "trailer": "0",
+      "generos": [
+        "Acción",
+        "Comedia",
+        "Crimen"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93071,
+      "tmdb_id": 1721914,
+      "titulo": "Ni contigo ni sin mí",
+      "slug": "ni-contigo-ni-sin-mi",
+      "año": "2026",
+      "fecha_estreno": "2026-07-17",
+      "rating": 2.0,
+      "sinopsis": "Tras ser abandonado por su mujer, Ernesto busca consuelo en la playa, pero descubre que la nueva novia de su vecino es su ex.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/4jUVOKqbZUQH2m8y55Pv60tOzpY.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/wxviAXjGNdIUOSlse4KvqbmwTmv.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93068,
+      "tmdb_id": 265321,
+      "titulo": "A Shred Of Mist",
+      "slug": "a-shred-of-mist",
+      "año": "2014",
+      "fecha_estreno": "2014-04-10",
+      "rating": 5.3,
+      "sinopsis": "Daniel ha presenciado como su madre se quito la vida y quedo con un trauma.  Es llevado a vivir bajo la custodia de su tía Elizabeth, una mujer ultra conservadora, de buena posición económica y arbitrarias reglas. Daniel crece bajo el yugo de esta mujer y bajo el tormento del recuerdo del suicidio de su madre, hasta que un día Daniel decide poner punto final a su desgracia…",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/9KrvhftJwhFzX7fC2c4wVmmrfp.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/3hJQjteP1x8GfwTWK9afHUmC99l.jpg",
+      "trailer": "0",
+      "generos": [
+        "Terror",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93067,
+      "tmdb_id": 63100,
+      "titulo": "Pasaporte a la locura",
+      "slug": "pasaporte-a-la-locura",
+      "año": "1968",
+      "fecha_estreno": "1968-03-06",
+      "rating": 4.9,
+      "sinopsis": "Jennie es una joven y sorda fugitiva que acaba de llegar a San Francisco para encontrar a su hermano perdido hace tiempo, un barbudo y misterioso escultor conocido en la ciudad como The Seeker. En San Francisco, traba amistad con la banda psicodélica Mumblin´Jim, cuyos miembros incluyen a Stony (un Jack Nicholson de pelo largo y cola de caballo), Ben (Adam Roarke) y Elwood (Max Julien), amantes de la paz, el amor libre y las drogas. Jennie se mudará a la casa victoriana que comparte la banda adoptando su forma de vida, mientras continua buscando a su hermano. (FILMAFFINITY)",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/bOqNRx4xy9LrNXpNr9LTHHeQ7oa.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/o3ujllK4ulmxYlStRzgdFvTr5Sb.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Música",
+        "Suspense"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93066,
+      "tmdb_id": 10485,
+      "titulo": "Papá fantasma",
+      "slug": "papa-fantasma",
+      "año": "1990",
+      "fecha_estreno": "1990-06-29",
+      "rating": 5.035,
+      "sinopsis": "Un padre viudo, que tiene a su cuidado a sus tres hijos, fallece de repente, tras sufrir un accidente. Al poco tiempo regresa a la vida en forma de fantasma para, en una lucha desesperada contra el tiempo, intentar asegurar el futuro de sus desamparados hijos.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/vYNIUUkJSZixxrfpMLFgVlagbaf.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/6y9xCLljUMMAsI2XV16j5D02Ji.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Familia",
+        "Fantasía"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93065,
+      "tmdb_id": 33575,
+      "titulo": "La impetuosa",
+      "slug": "la-impetuosa",
+      "año": "1952",
+      "fecha_estreno": "1952-06-13",
+      "rating": 6.4,
+      "sinopsis": "Una atleta y un mánager deportivo son los protagonistas de esta comedia romántica con partidos de tenis, golf y mucha química.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/2i2zybmV4dOrndwn5z6AEMAihIP.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/j3zYIDlhqwbHKyanhk4rPENc0Id.jpg",
+      "trailer": "0",
+      "generos": [
+        "Comedia",
+        "Romance"
+      ],
+      "servidores": []
+    },
+    {
+      "tipo": "pelicula",
+      "id_seriesly": 93063,
+      "tmdb_id": 1656489,
+      "titulo": "Sultana",
+      "slug": "sultana",
+      "año": "2026",
+      "fecha_estreno": "2026-04-17",
+      "rating": 6.0,
+      "sinopsis": "Meral, la reina indiscutible del club Sultana de Estambul, acoge bajo su protección a Anna, una bailarina con mucho talento. Pronto se da cuenta de que ha creado una poderosa rival que podría ocupar su lugar. Entonces comienza una despiadada lucha por el poder entre ambas mujeres.",
+      "poster": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w300/uE1TWEFVQ4OeWNDV0Wit5eEJCOJ.jpg",
+      "cover": "https://images.weserv.nl/?output=webp&url=https://image.tmdb.org/t/p/w780/lDHfyYkTIWCWWdbHkLZwRXQx3Ul.jpg",
+      "trailer": "0",
+      "generos": [
+        "Drama",
+        "Música"
+      ],
+      "servidores": []
+    }
+  ],
   "series": []
 }
