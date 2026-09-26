@@ -17,7 +17,38 @@
         "Terror",
         "Misterio"
       ],
-      "servidores": []
+      "servidores": [
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://firestream.site/v/HAvHpuxk"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://lulust.com/7nvl35uabbzw"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://vidaraa.cc/e/nEalpotXKZcod"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://vidmoly.me/v/n4cihqz0jiny"
+        },
+        {
+          "servidor": "ALTERNATIVO",
+          "calidad": "HD 720p",
+          "idioma": "Inglés - Subtitulado",
+          "url_token": "http://vidmoly.me/w/xt7lqlaa4not"
+        }
+      ]
     },
     {
       "tipo": "pelicula",
@@ -35,7 +66,38 @@
       "generos": [
         "Comedia"
       ],
-      "servidores": []
+      "servidores": [
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://firestream.site/v/X09cRtxZ"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://lulust.com/ynnkleucgyoy"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://vidaraa.cc/e/nJDwTxzXJa2Xr"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://vidmoly.me/v/4a9d000r9nz4"
+        },
+        {
+          "servidor": "ALTERNATIVO",
+          "calidad": "HD 720p",
+          "idioma": "Inglés - Subtitulado",
+          "url_token": "https://nitroflare.com/view/F8B38978A9A8632"
+        }
+      ]
     },
     {
       "tipo": "pelicula",
@@ -55,7 +117,62 @@
         "Animación",
         "Familia"
       ],
-      "servidores": []
+      "servidores": [
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IkhiVDVqV1lTbHpWdnhTUEo2WUNmcmc9PSIsInZhbHVlIjoiMUhHTTYzcjlicjhFVHVFZittaUR3QT09IiwibWFjIjoiMGYxNWU0NGMzNmFkMWJjZjZmMDZhNDY4N2VmZWU3MGIyYTVjMzdhZmI0YWRjYTE5MmIyYjU1OTMwYjdjZDllNCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6Ikk0QStENElodVRhOC9ZUDVmV0xrbnc9PSIsInZhbHVlIjoiYWl1YlF3UnBaQnJzMHBUYTFSekNuZz09IiwibWFjIjoiMjNhMmI1NDUwNDhlZDkwZGZhZjZmZjNiZDQyNzU0OTQ4MTc3N2FlNDFmYTgyNDliYjRkOTQ4ZTljOWJlNjlkNyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6InRMYXBwT1g2dVIySmlXOFdqbGYvYVE9PSIsInZhbHVlIjoiTDQ2VFNZVEZybVU1bitLbjhFWGJqZz09IiwibWFjIjoiNjU5ZjE5YzA3N2JlYWQ5NTI4ZmVhZGRkODRmYTc0NGEzZWVkZDU2MmEyNWY3OTk0YjU2ZmFhNzIxM2RlOGQ1ZiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6Ilo0SmpuRU55bDdLM1RVZUV3MTE2a1E9PSIsInZhbHVlIjoiZkV1WVdnMmFDbDljdTRIMnlIWjhVUT09IiwibWFjIjoiODAyOThmZDRhYWVjNTc1MjgyZTYzYTNmZmM2ZGQwNmUzZTNmMTNlZGNkNTk4MmY4NDMyMDFmOGZkMjBiMjMzYSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6InJvRDAzN211b25GM1AySXIwN3RMQWc9PSIsInZhbHVlIjoiUWV5cFYxQ1QxNjdHU3VPVmt6WVd0Zz09IiwibWFjIjoiYWE5OTliN2MwYWFlYjBkMDY1ZGVjOWI5ZWNkY2U4MjEyYzliNjU2MDI5NTlkNjRmNTI2NDkxNTY0YzNmOGQzOCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6IlRFRnh3MVZzZWxFWVpLTTRrOUxqc1E9PSIsInZhbHVlIjoidmx4VzJHYWpCdGF2R3RIV2g1NElTQT09IiwibWFjIjoiODUwY2QzNmJmM2U1MjYwYTBlNDQxMjNlZDgxZDJhMjZlY2YzZTE4ZmFmYTQ5MzBiYzZjNDJlNjk2N2FiMzZhNCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6ImpDbzI1bVRQWDRXaFFDZ3V2ODRCb0E9PSIsInZhbHVlIjoiRmJKY3hvVU5zWnVQZngyQk1QMTZvQT09IiwibWFjIjoiNjllYTYxOTZmZGJjZWY1NTIwZTFlM2Q2ZTA3ZGJjNjM4YmMwMDlkNmQ3ZjIxZGYzOTBkZWIwODE4NWIwY2FkZiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6InU2QUZZbjhXSmRFcVQzYWM5enA3SWc9PSIsInZhbHVlIjoiT3FQNjBVaVE3RW4yWjFQLzhTR3VzUT09IiwibWFjIjoiZGNjODg5YzdkYjZjMzc2ZmVlODkzMGI3ZGIwNWFiOGZmNWExMzllNDk4MGM3MTMzNmJmNmM0OGY5MWYxYzM5NyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "ALTERNATIVO",
+          "calidad": "HD 720p",
+          "idioma": "Inglés - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IktNUHBsQmlQN0RZVlF1d1BEUzZzRFE9PSIsInZhbHVlIjoiNG80SHorM1ZZd0hRQ0t0aXFSOUhrdz09IiwibWFjIjoiNWNiN2Y5ZGE0M2ZlNDUwNzYwYzE3YzkwODBiMzMwOWM1ZmU5OTRkNWI2MDVkNjI4NWZkNWMzYmVhOTFiZGVjMSIsInRhZyI6IiJ9"
+        }
+      ]
     },
     {
       "tipo": "pelicula",
@@ -75,7 +192,62 @@
         "Animación",
         "Comedia"
       ],
-      "servidores": []
+      "servidores": [
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "TS",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6Ik1jOVpFb2M0aFhZdHc4RWUzTzBsUEE9PSIsInZhbHVlIjoiWTh0QVJEQ1EybHVoakpJNjBaOGZzUT09IiwibWFjIjoiYzFlYmZkYjZkYzYyODA1NDkzNzZhNzQzYWJhYTYxYWRmZTUwNDY2MDA2YzI0MDE4MzNjYjE3OGJjMjFiYTg1NCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "TS",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6Ii9GU0lCYzhTRkUzeDNyc2hWMG5MTFE9PSIsInZhbHVlIjoiWVphU1MwYUh2Q1o5ZlJmVEk4bUFyUT09IiwibWFjIjoiOGQ2NGZhOTQyMjExMTY2YTg1ZjllZTIyMDVhMDdiMjkzY2Q0MDZmMTc0NTI3NDUwNmRkNzhmNTFhNmNiNzkzMCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "TS",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6IjQrcFNQVkVQdVJ1NG95SzJudW9yUEE9PSIsInZhbHVlIjoiREQ2LzdVd2lhRUpsSkM3cTNYNEY1UT09IiwibWFjIjoiZjM4ZmVjNGJiNzMyNmM2MDI3OTZhY2UwZTM5ZjA3MjM1OTlhYzY4OGUyZDg4ZmUyNjc5ZjZhMGI1OTU3YjhmMiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "TS",
+          "idioma": "Español - Latino",
+          "url_token": "https://series.ly/r/eyJpdiI6IlZCQ2k4RVNqSUpnMXUxcEMwTnpmc2c9PSIsInZhbHVlIjoiKzhQcXFrRkp3bm9DQlZ5NjhyTlBOUT09IiwibWFjIjoiNWUyZjI5MmY1Y2E1YzJlYmIzYzkzNmZiYWUwYjc0NDU0ZGRlMDM5NDE3NzQ0NzRjNTlmYTc4YmU0MjExZWVlYSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "TS",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6ImdoczhZTXRKSUc4eUZvQkUweEtGWkE9PSIsInZhbHVlIjoiVkZFVXZNOVJvZlF1VGZ3TTZIbHZXZz09IiwibWFjIjoiNzA3OTRhZTI3ZjY4NDIwYzAyYmY1YTFmOGNjMDY0Y2MzM2NkODY5NzM5YjUyYjViOGIyY2U5NTBjN2VmZDNhZiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "TS",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IjUreGMxOXNkNFpNL2s1dkpnaTErRkE9PSIsInZhbHVlIjoic0RMK29NSVZLVTcxclNod1czbTFqdz09IiwibWFjIjoiOGFiOWNkNmIxYzBhNGMxMmYyODE0ODdlNjM3ZGM4ZjAxNGM1NDc5YzY2Y2E0ODQ1NThlYzAzMzhhNDViYjBjMCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "TS",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6ImNZZ0JjVmc5K0RNblZYREtENDd1R3c9PSIsInZhbHVlIjoidndveXIvUlhLZEJFUnZyaEFPd09nZz09IiwibWFjIjoiZjY1MjFjZTIzNjg0ZTk1NzNlNDgzNDRjOTI5NWU3OTU3NTRjMzA5MWYyYWNjZTEwMTFmYjk1M2E0YmM5Nzg0ZSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "TS",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6InhpL3FwcXg3anFRZXNPeStoRmlNenc9PSIsInZhbHVlIjoiUDlQQWloYzdKNDZWaWJSUHpDS1ZVdz09IiwibWFjIjoiMzJiYjc2NTJjYjVlODdkMDlhODBjNWI2MTg1NjdlOWM0Y2I0OWY0YmRlMmNjNzUzMzE4MTY1MWE2YTQ4MjQwYSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "ALTERNATIVO",
+          "calidad": "HD 720p",
+          "idioma": "Inglés - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IjVFN0Vld3RXZWEzYjNidCs1MXVRU2c9PSIsInZhbHVlIjoiR3d4d0FURHZJZ21mSU9OUE5ldmg3UT09IiwibWFjIjoiN2RmNDMzZGFkZjMwN2YwODZiNDQ1ZTdkNzM3NWIxZWVjMjFmMWFmYmU5YzhmYTMyYWEzZjQyZWQxMGJmNDgwYiIsInRhZyI6IiJ9"
+        }
+      ]
     },
     {
       "tipo": "pelicula",
@@ -93,7 +265,104 @@
       "generos": [
         "Drama"
       ],
-      "servidores": []
+      "servidores": [
+        {
+          "servidor": "BYSE",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IlFoS01QOWJwd3FyaFc4dUJhbm1TaEE9PSIsInZhbHVlIjoiN2o1bkgrOEk5ekpaekl2SDNMTW1EQT09IiwibWFjIjoiNTgyMWM4NTY0NmI1YTNhNzlmZDlkMWIzMjFjOTUwODUyNGI1ZWYwNDg3YWI4ZTQ5NGU5Nzk1Nzk3NDRhNmM1YSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IjdxSWZJbmxtb0MwR3hPb0RwOHRQakE9PSIsInZhbHVlIjoicUcyZ0lYNXFncitUaENIdEovd1kwZz09IiwibWFjIjoiYmJhOGVmYmUzYTc3ZTVjZWYyMjA4MjZiZWQ1MzU0YzA1NjQwZGU0YjYzNmRmYzdhYzIxYjIxMjY3ZmJhMWVhYyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IlZaRDFRZDBSOHI2NzIxcFNsK3lsbmc9PSIsInZhbHVlIjoiTVZiQjZhQTh2VTFIbTRYSFkwcHN2QT09IiwibWFjIjoiZjQyZTVlMzY3YjRhMDVhNzkwMzhlYTZjNjhhNDk3M2VmYTI5NzVjNTQ3YTY5NDhiNjEyNmMxZjYyZjAyM2UwYyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IlpZbmJ2ZTVRckVpZHdsZ0YzU0JZSHc9PSIsInZhbHVlIjoiRThPZHRwSkxaVmllZ2padXl4cnBqZz09IiwibWFjIjoiMjIwYzIzMmJiYzQ1NTllYzVmZWU2ZGE1NzFiY2E5NTZiYjdlMTNjYWU3NmY5MTg5YzUzYjI0YzNmNmMzMmU1OCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDARA",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6ImVQN2MrdjZPaC93MFBsTmxBSk9Wb0E9PSIsInZhbHVlIjoiOHJpeHN2Yjc4ZGI4cEpOT1lsRCtVUT09IiwibWFjIjoiZDhmNDVmOGJmODI4MjM5NjA1NmQzNGUxOWFjOGY1YjkwMDRlZmI2YWI2YWFjYjMyZTc0N2UxNDc4OTZmNTRmZSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IkVYMEtEbWdXVWVqUXpETXY0SzdmZ3c9PSIsInZhbHVlIjoidEYrdzBHZGw1SVIwN0tWZmNWbmcvdz09IiwibWFjIjoiZWE0Y2RjNWFmZjBmMGU4NDkxODVlOTgzM2NkOTIzMDk1MDEyMTM2YjE2YWU4MmQ3YzkyNTA1MmQzM2ZlZTk3YSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "FIRESTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6Ik5qTVdrMEJsaUlZMVNyK2JEaHlhbEE9PSIsInZhbHVlIjoidG5yQTl3bTN2d2JBSTl1cEJkWVFsZz09IiwibWFjIjoiNzIxZWE2NGM4YjIwY2RlNmZmYWI1ZWEwMjMxZTI1YWE4OTA1YjdkM2M1YjNhOTg1N2EzMTM1MWU1MzM5MDY0OCIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "STREAMWISH",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6InJPWGhjWlViYnBxRVBvUFljVVVtOWc9PSIsInZhbHVlIjoieGxNcFUrbE13dERxODdMdVU2cmU1Zz09IiwibWFjIjoiZWExYTFiNTBhOGMzNzdkYTg2MjdmMDY4Y2ZmYWQ5MDgzZDA5OTFhNGYxYmNjYzcwM2Q0NDgzMzY0YzVhMzJkMSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "STREAMWISH",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IkNRUnBoM0NpdDRjZVYwVllkMFBoYVE9PSIsInZhbHVlIjoib1VTVXpMMTBKbE1OQjFpK2lCRUU1Zz09IiwibWFjIjoiZTlhNTk3YTNjM2QxYTM5MDFlMGY0NDNlOTliZjg5MDVlNTgxMjdiMjc0Y2Q5YjZlN2UzZDU5MDA2NWU5NzljYiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "LULUSTREAM",
+          "calidad": "HD 1080p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6ImdDVTBUYjJweUZBQXRCZVAvdUZ6THc9PSIsInZhbHVlIjoieDFPd3lxU01HMGJ3MlF0eE5SZWlydz09IiwibWFjIjoiOWNiNTMyYTUxODY5YmY3YWFhMThmODk5MzI5OTk3ZTZjMjRjYjk5Njk2ZDJjZWY3NTMyZTQ0MDJlYzQxOGNjOSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "STREAMPLAY",
+          "calidad": "HD 720p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6InpQb1I0MUhsamdwTENMUVhGa0JqNHc9PSIsInZhbHVlIjoibjhYTGJHUGt1d3BIN0txclM4S2t2dz09IiwibWFjIjoiZDE1NzgyZTdjOWViNGQzZDZhOWNjYmQ3NmZlMzJlMjRiOWI4OWUzMDg2YTI2ZmFhODAzYjYzZWQ4MGJmYzRhYSIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IjVOUjZxaUpJdmtuWEg2RThBeldBMkE9PSIsInZhbHVlIjoia3ROQ1lSWlY2Y3daMlkrZzIySzVEUT09IiwibWFjIjoiZDkwMGE1NGU0NDA2NTNiZjc5NGE5Y2NmN2MzYTU5Y2Y4ZGFhYzc2Zjk1YzRkOGU0NzE0ZTMwODJkMWY2ZjI5YyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "POWVIDEO",
+          "calidad": "HD 720p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6Ik91Sk1QYm9kVlAzWGtQV1lzMUlpSGc9PSIsInZhbHVlIjoia1l5MVRnMjg1YzBnTm4vSEFPcm1uQT09IiwibWFjIjoiYzUwYmFmYmU0OGQ1OTVkZmJhMzQ1NjM3Yjc3ZGVlNGNjOGVlOWU3MjZiOGIyNDc1M2MwMmJiMTg0ZmUwM2MxMiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6InBRa0cySEtxZFRYbVFwS0xwdXFETnc9PSIsInZhbHVlIjoiVnh5eEExWWJPTGRaOW54NHpWQmN1QT09IiwibWFjIjoiYmVkNGU5NDgzZDVjZDY0NGQ4MzcwY2RkNmUzMzEzNmNjZjVjOTY1MjM1Y2E3ZDZhOGJlYjA3OWZmYjFhMDJjYyIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "VIDMOLY",
+          "calidad": "HD 720p",
+          "idioma": "Español - España",
+          "url_token": "https://series.ly/r/eyJpdiI6IjRobzUzdjhIRUJPcXp5ejZ1dU1tV0E9PSIsInZhbHVlIjoiYXdMdmRUNmQwRVRHOG0zWlk0ZnhIZz09IiwibWFjIjoiMWFlYTQ4NWRjNjdjMTE2MWE0MDFkNWU4MjRkZjA0MDViM2M0ZjE1Mjg2ZjExOTk2Y2MyMWVlMDRhNzQwMDc5MiIsInRhZyI6IiJ9"
+        },
+        {
+          "servidor": "ALTERNATIVO",
+          "calidad": "HD 720p",
+          "idioma": "Inglés - Subtitulado",
+          "url_token": "https://series.ly/r/eyJpdiI6IkFsdkpxNlcvdDZudWVycW9wTnJPeEE9PSIsInZhbHVlIjoiMExBOHl5aWdzNTgwTHM4QWlZd3BEZz09IiwibWFjIjoiNTVjODg1MDEwYzkzNWJmZGZkMjRkYWVkNWQxNWM0Njk2YmJmZDI3MTZiZDI5NGIwYWM2MzJkYzllMGZhMmQ0NyIsInRhZyI6IiJ9"
+        }
+      ]
     },
     {
       "tipo": "pelicula",
