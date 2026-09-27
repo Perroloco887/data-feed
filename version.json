@@ -1,8 +1,7 @@
 {
-  "version": 1,
-  "ultima_actualizacion": "2026-09-25T11:30:00Z",
-  "parche_url": null,
-  "estado": "Iniciando cat\u00e1logo",
-  "total_peliculas": 0,
-  "total_series": 0
+  "version": 2,
+  "ultima_actualizacion": "2026-09-27T09:57:07.423203Z",
+  "parche_url": "patches/patch_v2.enc",
+  "total_peliculas": 48,
+  "total_servidores": 519
 }
