@@ -1,7 +1,7 @@
 {
-  "version": 12,
-  "ultima_actualizacion": "2026-10-03T13:33:49.157750Z",
-  "parche_url": "patches/patch_v12.enc",
-  "total_peliculas": 0,
-  "total_servidores": 0
+  "version": 13,
+  "ultima_actualizacion": "2026-10-05T20:15:49.490666Z",
+  "parche_url": "patches/patch_v13.enc",
+  "total_peliculas": 19941,
+  "total_servidores": 167200
 }
